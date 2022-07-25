@@ -1,1 +1,0 @@
-Memcoba membuat file python
